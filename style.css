@@ -1,0 +1,60 @@
+body{
+    background-image:linear-gradient(rgba(11, 146, 146, 0.8),rgba(29, 29, 29, 0.8)), url(https://brasil.un.org/profiles/undg_country/themes/custom/undg/images/SDGs/pt-br/SDG-3.svg);
+}
+
+h1 {
+    font-size: 2.5rem;
+    margin-bottom: 1rem;
+    text-align: center;
+    color: rgb(255, 255, 255);
+}
+
+p{
+    font-size: 1.2rem;
+    margin-bottom: 1rem;
+    text-align: justify;
+    padding: 50px;
+    color: white;
+}
+
+
+h2 {
+    font-size: 1.3rem;
+    margin-bottom: 1rem;
+    text-align: justify;
+    padding: 50px;
+    color: white;
+}
+
+.lista {
+    font-size: 1rem;    
+    text-align: justify;
+    padding: 50px;   
+    color: white;
+}
+
+
+.mapa img{
+    width: 900px;
+    height: 600px;
+    margin-left: 200px;
+    border-radius: 10px;
+}
+
+footer a{
+    height: 25px;
+    color: rgb(9, 247, 147);
+    font-size: 1rem;
+    display:inline-flex;
+    align-items: center;
+    justify-content: center;
+}
+
+h3 {
+    height: 25px;
+    color: rgb(9, 247, 147);
+    font-size: 1rem;
+    text-align: center;
+    justify-content: center;
+}
+
